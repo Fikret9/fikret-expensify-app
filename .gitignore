@@ -1,5 +1,10 @@
 node_modules/
-public/bundle.js
-public/bundle.js.map
-public/styles.css
-public/styles.css.map
+public/dist/
+
+C:\Users\Fikret\Desktop\UDEMY COURSES\Web Development\React-course\expensify-app
+>npm run server/server.js
+npm ERR! missing script: server/server.js
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\Fikret\AppData\Roaming\npm-cache\_logs\2018-06-24T15_40_30
+_283Z-debug.log
